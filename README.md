@@ -22,7 +22,7 @@ insights and information that can be visualized in a user-friendly manner.
 
 <img width="600" alt="image" src="https://github.com/SharmilaAnanthasayanam/Phonepe-Project/assets/112562560/7b9b954b-0126-483d-967c-65d3d9480a1e">
 
-Link for the data: https://github.com/PhonePe/pulse#readme
+Link for the data: https://github.com/PhonePe/pulse
 
 Note: password for mysql to be provided through .env file.
 
